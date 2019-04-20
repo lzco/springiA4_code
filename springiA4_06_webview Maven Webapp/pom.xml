@@ -11,7 +11,7 @@
 	</parent>
 	<artifactId>springiA4_06_webview</artifactId>
 	<packaging>war</packaging>
-	<name>springiA4_webview Maven Webapp</name>
+	<name>springiA4_06_webview Maven Webapp</name>
 
 	<dependencies>
 		<dependency>
