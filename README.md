@@ -1,9 +1,5 @@
 # springiA4_code
 《Spring实战》（第4版）的源码 | 《Spring In Action》(Fourth Edition) Source Code
-大部分源码来自该书籍，稍有改动。
+maven版本 | maven version
+大部分源码来自该书籍和官网，稍有改动（此外，补充代码第四章-aop和第15章-远程服务，第20章不打算补充）。
 <br>
-目前完成第一部分（Spring的核心）<br>
-1.Spring之旅<br>
-2.装配Bean<br>
-3.高级装配<br>
-4.面向切面的AOP<br>
